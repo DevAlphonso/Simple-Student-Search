@@ -1,3 +1,8 @@
+## this is my 3rd month of learning Java!
+## I did this in my spare time for fun.
+# It was fairly easy to do, it is not my hardest project.
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
