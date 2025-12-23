@@ -35,8 +35,10 @@ public class StudentManager {
     }
 
     public static void displayAllStudents() {
+        var i = 0;
         for (Student s : students.values()) {
-            System.out.println("Student Name: " + s.getName() + "\nStudent ID: " + s.getId());
+            i++;
+            System.out.println("\nStudent " + i + ": \n\tName: " + s.getName() + "\n\tID: " + s.getId());
         }
     }
 }

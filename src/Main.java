@@ -47,7 +47,7 @@ public class Main {
                     break;
 
                 default:
-                    System.out.println("Invalid Choice!");
+                    System.out.println("Invalid Choice.");
             }
         }
         sc.close();
