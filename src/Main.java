@@ -63,6 +63,10 @@ public class Main {
                 break;
             }
             var s = StudentManager.createStudent(name);
+
+            if (s == null) {
+                System.out.println("Please enter letters only!");
+            }
         }
     }
 }
